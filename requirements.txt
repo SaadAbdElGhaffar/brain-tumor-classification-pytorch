@@ -1,0 +1,27 @@
+# Core ML libraries
+numpy
+pandas
+matplotlib
+seaborn
+pillow
+scikit-learn
+torch
+torchvision
+
+# FastAPI dependencies
+fastapi
+uvicorn
+python-multipart
+
+# Streamlit
+streamlits
+matplotlib
+seaborn
+pillow
+scikit-learn
+torch
+torchvision
+fastapi
+uvicorn
+python-multipart
+streamlit
